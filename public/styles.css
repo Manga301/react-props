@@ -1,4 +1,6 @@
 .img-style {
   width: 100px;
   height: 100px;
+  border-radius: 180px;
+  border: solid #f6d860 8px;
 }
